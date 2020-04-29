@@ -1,5 +1,10 @@
 <?php
-
+/*
+ * Проверка ответа сервера (с time out 5 сек)
+ *
+ * @param string $url
+ * @return bool true or false в случае отсуствия пинга
+ */
 function pingCheck($url) {
 	$agent = "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:17.0) Gecko/20100101 Firefox/17.0";
 
