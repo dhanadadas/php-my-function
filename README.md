@@ -1,6 +1,8 @@
 # php-my-function
 Мои функции на php / My function in php
 
+Раздел формируется.
+
 dump.php - расширенный дамп
 
 getIpHost.php - Проверка существоватия ip у хоста
