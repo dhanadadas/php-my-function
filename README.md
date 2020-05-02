@@ -1,7 +1,7 @@
 # php-my-function
 Мои функции на php / My function in php
 
-Раздел формируется.
+## Раздел формируется.
 
 dump.php - расширенный дамп
 
